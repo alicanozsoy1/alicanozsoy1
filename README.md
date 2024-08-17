@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Can</h1>
 <h3 align="center">a passionate Software Test Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicanozsoy1&label=Profile%20views&color=0e75b6&style=flat" alt="alicanozsoy1" /> </p>
-
 - 📫 How to reach me **alicanozsoy11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
